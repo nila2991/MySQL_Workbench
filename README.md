@@ -16,5 +16,5 @@ The goal of this project is to design, populate, and manage a relational databas
 * **Status:** Complited
 * **Description:** In this stage, I initialized the database structure, defined table schemas, set up primary keys, and ensured correct data types for each column to maintain data integrity.
 
-### DStage 2: Data population
+### Stage 2: Data population
 * **Status:** In Progress...
