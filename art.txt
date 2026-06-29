@@ -1,0 +1,354 @@
+
+first_name: Leonardo
+last_name: da Vinci
+birth_date: April 15, 1452
+death_date: May 2, 1519
+nationality: Italian
+art_title: Mona Lisa
+art_year: 1503
+art_genre: Renaissance
+art_type: Painting
+keywords: Portrait, smile, iconic
+
+
+first_name: Leonardo
+last_name: da Vinci
+birth_date: April 15, 1452
+death_date: May 2, 1519
+nationality: Italian
+art_title: The Last Supper
+art_year: 1498
+art_genre: Renaissance
+art_type: Painting
+keywords: Biblical, apostles, iconic
+
+
+first_name: Vincent
+last_name: van Gogh
+birth_date: March 30, 1853
+death_date: July 29, 1890
+nationality: Dutch
+art_title: The Starry Night
+art_year: 1889
+art_genre: Post-Impressionism
+art_type: Painting
+keywords: Landscape, night sky
+
+first_name: Vincent
+last_name: van Gogh
+birth_date: March 30, 1853
+death_date: July 29, 1890
+nationality: Dutch
+art_title: Sunflowers
+art_year: 1888
+art_genre: Post-Impressionism
+art_type: Painting
+keywords: Still life, flowers
+
+first_name: Pablo
+last_name: Picasso
+birth_date: October 25, 1881
+death_date: April 8, 1973
+nationality: Spanish
+art_title: Guernica
+art_year: 1937
+art_genre: Cubism
+art_type: Painting
+keywords: War, destruction
+
+first_name: Pablo
+last_name: Picasso
+birth_date: October 25, 1881
+death_date: April 8, 1973
+nationality: Spanish
+art_title: Les Demoiselles d'Avignon
+art_year: 1907
+art_genre: Cubism
+art_type: Painting
+keywords: Avant-garde, provocative
+
+first_name: Claude
+last_name: Monet
+birth_date: November 14, 1840
+death_date: December 5, 1926
+nationality: French
+art_title: Water Lilies series
+art_year: 1926
+art_genre: Impressionism
+art_type: Painting
+keywords: Landscape, light
+
+first_name: Claude
+last_name: Monet
+birth_date: November 14, 1840
+death_date: December 5, 1926
+nationality: French
+art_title: Impression, Sunrise
+art_year: 1872
+art_genre: Impressionism
+art_type: Painting
+keywords: Harbor, sunrise
+
+first_name: Michelangelo
+last_name: Buonarroti
+birth_date: March 6, 1475
+death_date: February 18, 1564
+nationality: Italian
+art_title: David
+art_year: 1504
+art_genre: Renaissance
+art_type: Sculpture
+keywords: Marble, biblical, iconic
+
+first_name: Michelangelo
+last_name: Buonarroti
+birth_date: March 6, 1475
+death_date: February 18, 1564
+nationality: Italian
+art_title: The Creation of Adam
+art_year: 1512
+art_genre: Renaissance
+art_type: Fresco
+keywords: Biblical, iconic
+
+first_name: Frida
+last_name: Kahlo
+birth_date: July 6, 1907
+death_date: July 13, 1954
+nationality: Mexican
+art_title: The Two Fridas
+art_year: 1939
+art_genre: Surrealism
+art_type: Painting
+keywords: Portrait, surreal
+
+first_name: Frida
+last_name: Kahlo
+birth_date: July 6, 1907
+death_date: July 13, 1954
+nationality: Mexican
+art_title: Self-Portrait with Thorn Necklace and Hummingbird
+art_year: 1940
+art_genre: Surrealism
+art_type: Painting
+keywords: Portrait, nature
+
+first_name: Johannes
+last_name: Vermeer
+birth_date: October 31, 1632
+death_date: December 16, 1675
+nationality: Dutch
+art_title: Girl with a Pearl Earring
+art_year: 1665
+art_genre: Baroque
+art_type: Painting
+keywords: Portrait, light
+
+first_name: Johannes
+last_name: Vermeer
+birth_date: October 31, 1632
+death_date: December 16, 1675
+nationality: Dutch
+art_title: The Milkmaid
+art_year: 1658
+art_genre: Baroque
+art_type: Painting
+keywords: Milk
+
+first_name: Henri
+last_name: Matisse
+birth_date: December 31, 1869
+death_date: November 3, 1954
+nationality: French
+art_title: The Dance
+art_year: 1910
+art_genre: Fauvism
+art_type: Painting
+keywords: Dance
+
+first_name: Georgia
+last_name: O'Keeffe
+birth_date: November 15, 1887
+death_date: March 6, 1986
+nationality: American
+art_title: Jimson Weed/White Flower No. 1
+art_year: 1932
+art_genre: Precisionism
+art_type: Painting
+keywords: Flowers
+
+first_name: Georgia
+last_name: O'Keeffe
+birth_date: November 15, 1887
+death_date: March 6, 1986
+nationality: American
+art_title: Black Iris III
+art_year: 1926
+art_genre: Precisionism
+art_type: Painting
+keywords: Flowers
+
+first_name: Salvador
+last_name: Dali
+birth_date: May 11, 1904
+death_date: January 23, 1989
+nationality: Spanish
+art_title: The Persistence of Memory
+art_year: 1931
+art_genre: Surrealism
+art_type: Painting
+keywords: Surreal
+
+first_name: Edvard
+last_name: Munch
+birth_date: December 12, 1863
+death_date: January 23, 1944
+nationality: Norwegian
+art_title: The Scream
+art_year: 1893
+art_genre: Symbolism
+art_type: Painting
+keywords: Scream, iconic
+
+
+first_name: Andy
+last_name: Warhol
+birth_date: August 6, 1928
+death_date: February 22, 1987
+nationality: American
+art_title: Campbell's Soup Cans
+art_year: 1962
+art_genre: Pop Art
+art_type: Painting
+keywords: Consumerism, iconic
+
+first_name: Andy
+last_name: Warhol
+birth_date: August 6, 1928
+death_date: February 22, 1987
+nationality: American
+art_title: Marilyn Diptych
+art_year: 1962
+art_genre: Pop Art
+art_type: Painting
+keywords: Celebrity
+
+first_name: Gustav
+last_name: Klimt
+birth_date: July 14, 1862
+death_date: February 6, 1918
+nationality: Austrian
+art_title: The Kiss
+art_year: 1908
+art_genre: Symbolism
+art_type: Painting
+keywords: Love
+
+first_name: Grant
+last_name: Wood
+birth_date: February 13, 1891
+death_date: February 12, 1942
+nationality: American
+art_title: Daughters of Revolution
+art_year: 1932
+art_genre: Regionalism
+art_type: Painting
+keywords: Portrait
+
+
+first_name: Joan
+last_name: Miro
+birth_date: April 20, 1893
+death_date: December 25, 1983
+nationality: Spanish
+art_title: The Tilled Field
+art_year: 1924
+art_genre: Surrealism
+art_type: Painting
+keywords: Abstract, landscape
+
+first_name: Rembrandt
+last_name: van Rijn
+birth_date: July 15, 1606
+death_date: October 4, 1669
+nationality: Dutch
+art_title: The Three Crosses
+art_year: 1653
+art_genre: Baroque
+art_type: Etching
+keywords: Biblical, crucifixion
+
+first_name: Francisco
+last_name: Goya
+birth_date: March 30, 1746
+death_date: April 16, 1828
+nationality: Spanish
+art_title: The Sleep of Reason Produces Monsters
+art_year: 1799
+art_genre: Romanticism
+art_type: Etching
+keywords: Dream, surreal
+
+first_name: Giovanni Battista
+last_name: Piranesi
+birth_date: October 4, 1720
+death_date: November 9, 1778
+nationality: Italian
+art_title: The Arch of Titus
+art_year: 1756
+art_genre: Neoclassicism
+art_type: Etching
+keywords: Rome, ancient ruins
+
+
+first_name: Auguste
+last_name: Rodin
+birth_date: November 12, 1840
+death_date: November 17, 1917
+nationality: French
+art_title: The Thinker
+art_year: 1902
+art_genre: Modernism
+art_type: Sculpture
+keywords: Pensive
+
+
+first_name: Gian Lorenzo
+last_name: Bernini
+birth_date: December 7, 1598
+death_date: November 28, 1680
+nationality: Italian
+art_title: Apollo and Daphne
+art_year: 1625
+art_genre: Baroque
+art_type: Sculpture
+keywords: Marble
+
+
+first_name: Constantin
+last_name: Brancusi
+birth_date: February 19, 1876
+death_date: March 16, 1957
+nationality: Romanian
+art_title: Bird in Space
+art_year: 1930
+art_genre: Modernism
+art_type: Sculpture
+keywords: Abstract, nature
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
