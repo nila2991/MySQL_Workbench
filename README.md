@@ -9,12 +9,17 @@ The goal of this project is to design, populate, and manage a relational databas
 
 ---
 
-## Project Progress
+## 📅 Project Progress
 
-### Stage 1: Database Initialisation
-* **Goal:** Design the database schema and create the core tables.
-* **Status:** Complited
-* **Description:** In this stage, I initialized the database structure, defined table schemas, set up primary keys, and ensured correct data types for each column to maintain data integrity.
+### 📅 Stage 1: Database Initialisation
+* Goal: Design the database schema and create the core tables.
+* Status: Completed
+* Description: In this stage, I initialized the database structure, defined table schemas, set up primary keys, and ensured correct data types for each column to maintain data integrity.
 
-### Stage 2: Data population
-* **Status:** In Progress...
+### 📅 Stage 2: Data Population
+* Goal: Populate the tables with initial datasets and manage constraints.
+* Status:  Completed
+* Description: Added primary datasets into the newly created tables using optimized INSERT INTO scripts. 
+
+### ⏳ Stage 3: Data Selection & Queries
+* Status: In Progress...
