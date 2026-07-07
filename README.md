@@ -1,15 +1,16 @@
-# MySQL Workbench Project 
+# Art Gallery & Artist Productivity Analytics (MySQL)
 
-This repository contains my solution for the MySQL Workbench project from Hyperskill (JetBrains Academy).
-The goal of this project is to design, populate, and manage a relational database using MySQL.
+This repository contains a step-by-step SQL project focused on database schema design, relational data management, and advanced analytics. The project tracks artists, their artworks, and provides data-driven insights into their productivity.
 
-## Tech Stack
-* **Database:** MySQL
-* **Tools:** MySQL Workbench / Terminal
+## 🛠️ Tech Stack & Key Concepts
+* **Database:** MySQL / MySQL Workbench
+* **Advanced SQL Features:** Window Functions (RANK() OVER), Common Table Expressions (WITH), Relational Joins (INNER JOIN), Data Aggregation (GROUP BY, COUNT), String & Temporal Formatting (CONCAT, MONTHNAME).
+* **Architecture:** Relational Database Design, Primary & Foreign Key constraints, Data Integrity Management.
 
 ---
 
-## 📅 Project Progress
+## 📅 Project Progress & Architecture
+
 
 ### 📅 Stage 1: Database Initialisation
 * Goal: Design the database schema and create the core tables.
@@ -31,5 +32,7 @@ The goal of this project is to design, populate, and manage a relational databas
 * Status: Completed
 * Description: Extracted and analyzed specific insights using MySQL date and string manipulation functions (MONTHNAME, CONCAT). Leveraged Common Table Expressions (WITH), multiple INNER JOIN operations, and conditional filtering (WHERE) to isolate data points with matching birth months. Applied GROUP BY and ORDER BY to aggregate and structure the final report cleanly.
 
-### ⏳ Stage 5: Productivity Metrics & Data Ranking
-* Status: In Progress...
+### 📅 Stage 5: Productivity Metrics & Advanced Window Ranking
+* Goal: Calculate performance metrics and rank records using window functions.
+* Status: Completed
+* Description: Formulated advanced analytical queries to evaluate artist productivity. Leveraged Common Table Expressions (WITH) and an INNER JOIN to combine datasets, and applied GROUP BY to aggregate data. Successfully implemented the RANK() OVER window function combined with ORDER BY to dynamically generate an accurate leaderboard of top contributors based on their artwork volume.
