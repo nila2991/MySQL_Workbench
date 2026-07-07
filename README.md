@@ -26,5 +26,10 @@ The goal of this project is to design, populate, and manage a relational databas
 * Status: Completed
 * Description: Built advanced analytical queries using Common Table Expressions (WITH clause) to create temporary result sets for sub-table logic. Successfully combined data from multiple sources using multiple INNER JOIN operations and applied GROUP BY to aggregate metrics efficiently.
 
-### ⏳ Stage 4: String Manipulation & Deep Data Exploration
+* ### 📅 Stage 4: String Manipulation & Temporal Data Analysis
+* Goal: Perform advanced string formatting and filter datasets based on date components.
+* Status: Completed
+* Description: Extracted and analyzed specific insights using MySQL date and string manipulation functions (MONTHNAME, CONCAT). Leveraged Common Table Expressions (WITH), multiple INNER JOIN operations, and conditional filtering (WHERE) to isolate data points with matching birth months. Applied GROUP BY and ORDER BY to aggregate and structure the final report cleanly.
+
+### ⏳ Stage 5: Productivity Metrics & Data Ranking
 * Status: In Progress...
