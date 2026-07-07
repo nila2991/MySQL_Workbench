@@ -21,5 +21,10 @@ The goal of this project is to design, populate, and manage a relational databas
 * Status:  Completed
 * Description: Added primary datasets into the newly created tables using optimized INSERT INTO scripts. 
 
-### ⏳ Stage 3: Data Selection & Queries
+### 📅 Stage 3: Advanced Data Aggregation & Relational Queries
+* Goal: Implement complex data retrieval logic using multi-table joins and data transformation.
+* Status: Completed
+* Description: Built advanced analytical queries using Common Table Expressions (WITH clause) to create temporary result sets for sub-table logic. Successfully combined data from multiple sources using multiple INNER JOIN operations and applied GROUP BY to aggregate metrics efficiently.
+
+### ⏳ Stage 4: String Manipulation & Deep Data Exploration
 * Status: In Progress...
